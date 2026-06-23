@@ -1,1 +1,0 @@
-# Geburtsdatum-Pflichtfeld-Scanner
